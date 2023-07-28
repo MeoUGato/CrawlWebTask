@@ -1,0 +1,176 @@
+id;journal_id;paper_name;author_name;published_date
+1;Vol. 23 No. 1 (2023);On the revision of detecting learning-by-exporting: empirical evidence from small- and medium-sized enterprises in Vietnam;Nguyen Ba Nhu Ngoc,Dao Ngoc Tien,Nguyen Quynh Huong;30/03/2023
+2;Vol. 23 No. 1 (2023);An evaluation of financial performance of Vietnam textile and apparel industry using the entropy-TOPSIS method;Pham Thi Hong Yen,Wang Tien-Chin ,Nguyen Thi Hien Hoa,Nguyen Thi Ngoc Anh;30/03/2023
+3;Vol. 23 No. 1 (2023);Spillover effects of transportation capital and provincial competitiveness on economic growth in Vietnam;Le Thi Quynh Nhung;30/03/2023
+4;Vol. 23 No. 1 (2023);State ownership and corporate investment: evidence from Vietnamese stock market;Quoc Trung Tran,Xuan Minh Nguyen,Tuan Duong Nguyen,Thi Trung Nguyen,Thi Huong Dao,Quang Tam Nguyen;30/03/2023
+5;Vol. 23 No. 1 (2023);Factors affecting the level of customer deposit: the case of commercial banks in Vietnam;Le Hoang Vinh,Pham Le Quang,Bui Anh Thanh,Nguyen Duy Phuong;30/03/2023
+6;Vol. 23 No. 1 (2023);Corporate social responsibility and financial performance in the banking industry: a comparative study of Australia and Vietnam;Nguyen Van Ha,Vu Thi Diem Phuc,Pham Huong Giang,Phan Thi Huong Giang,Le Gia Khanh;30/03/2023
+7;Vol. 23 No. 1 (2023);The impact of personality traits on positivity at work and job performance of officers - An empirical investigation at the district-level administrative agencies in Hanoi;Nguyen Danh Nam,Uong Thi Ngoc Lan;30/03/2023
+8;Vol. 23 No. 1 (2023);Factors influencing the decision to outsource logistics services of small- and medium-sized enterprises in Vietnam;Bui Duy Linh,Nguyen Thi Dieu Hoa;30/03/2023
+9;Vol. 22 No. 3 (2022);Foreign bank penetration in Vietnam following Vietnam’s  accession to the WTO: matching expectations with reality;Pham  Thu Huong,Vo  Xuan Vinh,Nguyen  Thi Hien,Bui  Thi Ly,Nguyen  Ngoc Toan;30/11/2022
+10;Vol. 22 No. 3 (2022);Does proximity matter? The effect of financial sector development on economic growth in the EAC and SADC regional blocs;Samwel Sanga Alananga,Felicican Mutasa;30/11/2022
+11;Vol. 22 No. 3 (2022);Extended environmental Kuznets curve in Asia-Pacific countries: an empirical analysis;Nguyen Binh Duong,Everett E. Mayers,Nguyen Duc Nhan,Dau Thu Huong,Hoang Thi Thuy Duong;30/11/2022
+12;Vol. 22 No. 3 (2022);Firm innovation strategies and integration into the global value chains: how does the local business environment matter?; Le Thi Ngoc Bich,Hoang Bao Tram,Doan  Quang Hung,Fillipo  Marchesani,Bui  Quang Tuan;30/11/2022
+13;Vol. 22 No. 3 (2022);Factors affecting organizational commitment: research at the Joint-stock Commercial Bank for  Investment and Development of Vietnam (BIDV);Nguyen Hong Quan,Nguyen Thi Anh Tho;30/11/2022
+14;Vol. 22 No. 3 (2022);Interdependence of stock markets: evidence from Vietnam;Tran Thi Van Anh,Dao Hoang Tuan,Nguyen Thi Nhung;30/11/2022
+15;Vol. 22 No. 2 (2022);Liquidity risk, macroprudential regulation and bank performance: empirical evidence from Vietnamese commercial banks;Nguyen Tri Minh,Tran Ngoc Tho,Nguyen Huu Tuan;31/07/2022
+16;Vol. 22 No. 2 (2022);Financial crisis and dividend policy: evidence from an emerging market;Quoc Trung Tran,Xuan Minh Nguyen,Thi Huong Dao;31/07/2022
+17;Vol. 22 No. 2 (2022);The moderation role of investment opportunities in modifying the impact of state ownership on corporate risk-taking behavior;Le Quang Minh,Nguyen Hoang Minh;31/07/2022
+18;Vol. 22 No. 2 (2022);Earnings management around equity issuances in Vietnamese listed firms;Anh Thi Mai Nguyen,B-Ta Tran,Hiep Manh Nguyen;31/07/2022
+19;Vol. 22 No. 2 (2022);How does Japanese ODA really contribute to economic growth for ASEAN countries?;Hien Phuc Nguyen,Anh Ngoc Quang  Huynh,Ulrike  Reisach,Xuyen Le Thi  Kim;31/07/2022
+20;Vol. 22 No. 2 (2022);Determinants of bilateral trade flows of Vietnam: evidence from panel fixed effects estimation approaches;Le Trung Ngoc Phat,Nguyen Kim Hanh;31/07/2022
+21;Vol. 22 No. 1 (2022);Potential market-stealing effect of FDI on state-owned enterprises: an empirical examination of the case of Vietnam;Tang Van Nghia,Cao Thi Hong Vinh,Nguyen Duy Hung,Paul Schrader;31/03/2022
+22;Vol. 22 No. 1 (2022);Determinants of customer satisfaction towards buying fresh foods  in supermarkets - A study in Ho Chi Minh City;Nguyen Thi Quynh Nga,Huynh Thi Kim Thoa;31/03/2022
+23;Vol. 22 No. 1 (2022);Factors affecting capital adequacy ratio of joint-stock commercial banks in Vietnam;Vinh Hoang Le,Anh Hoang Nguyen,Thuy Minh Thi Le,Vien Bich Cao;31/03/2022
+24;Vol. 22 No. 1 (2022);The impact of HRM practices on organizational commitment and job satisfaction of civil servants in Hanoi;Nguyen Danh Nam,Uong Thi Ngoc Lan;31/03/2022
+25;Vol. 22 No. 1 (2022);An assessment of factors influencing career choices among fresh graduates: a survey of students majoring in business and economics;Nguyen Thu Giang,Duong Thi Hoai Nhung;31/03/2022
+26;Vol. 22 No. 1 (2022);Towards sustainability in waste management: a systematic literature review;Vu Thi Hanh,Nguyen Hoang Vinh Ha,Pham Thi Cam Anh,Dang Quynh Nhu;31/03/2022
+27;Vol. 21 No. 3 (2021);Determinants of corporate cash holdings: evidence from Vietnamese materials firms;Tran Hue Chi,Phan Tran Trung Dzung ;24/11/2021
+28;Vol. 21 No. 3 (2021);Earnings quality measurements and determinants: the case of listed firms in Vietnam;Pham Minh Hieu,Nguyen Do Quyen;24/11/2021
+29;Vol. 21 No. 3 (2021);Succeed or fail? A case study of new ventures in Hanoi, Vietnam;Hien Thi Tran,Dat Quoc Nguyen,Hoan Dong Hoang ;24/11/2021
+30;Vol. 21 No. 3 (2021);Investigating the determinants of green consumption intention;Nguyen Thi Khanh Chi,Pham Song Hanh,Nguyen Thi Tuyet Nhung,Do Huong Giang,Ngo Thi Nhu;24/11/2021
+31;Vol. 21 No. 3 (2021);Perception of digital transformation effect on audit quality: the case of Vietnam;Tran Thi Kim Anh,Hoang Ha Anh ;24/11/2021
+32;Vol. 21 No. 3 (2021);Testing the relationship between out-of-class student engagement and student learning outcomes: the case of business students in Vietnam;Trinh Thi Thu Giang;24/11/2021
+33;Vol. 21 No. 2 (2021);Economic growth and electricity consumption;Huu Thang Nguyen;27/12/2021
+34;Vol. 21 No. 2 (2021);The impacts of social capital on rural household’s income: empirical evidence from rural Vietnam;Do Ngoc Kien,Yuriko Minamoto;27/07/2021
+35;Vol. 21 No. 2 (2021);The potential impacts of the EVFTA on Vietnam’s exports of  agricultural products: an application of SMART model;Doan Duc Manh,Dac Hieu Nguyen;27/12/2021
+36;Vol. 21 No. 2 (2021);The potential impacts of the EVFTA on Vietnam’s imports of  dairy products from the EU: a SMART model analysis;Bui Duy Linh,Lam Quynh Mai Nguyen ,Rizwan Ahmed;27/07/2021
+37;Vol. 21 No. 2 (2021);The effect of disease outbreaks on shrimp aquaculture and the role of cooperatives in the Mekong Delta;Nguyen Thi Thanh Huyen,Suzuki Aya;27/07/2021
+38;Vol. 21 No. 2 (2021);The impact of social network on tourist attitude towards  ecotourism: a case of Vietnam;Nguyen Thi Hanh,Nguyen Thi Khanh Chi,Tran Thi Phuong Thao,Ngo Thi Nhu;27/07/2021
+39;Vol. 21 No. 2 (2021);Sustainability reporting in Vietnam: evolutionary or revolutionary?  A case study of five public companies;Tran Thi Hien,Thu Huong Tran;27/12/2021
+40;Vol. 21 No. 1 (2021);Impacts of EVFTA on the exportation of  Vietnamese agricultural products to the EU market;Nguyen Tien Hoang,Trinh Thuy Ngan;27/12/2021
+41;Vol. 21 No. 1 (2021);CEO demographic characteristics and firm performance:  an empirical study in the scientific research and technology development industry;Melissa Jardine,Duong Thi Thanh Thuy;19/03/2021
+42;Vol. 21 No. 1 (2021);Investigating the willingness to pay for green hotels: the effects of destination image and environmental beliefs;Nguyen Minh Chau;27/12/2021
+43;Vol. 21 No. 1 (2021);Identifying work-related factors influencing job satisfaction using  job descriptive index questionnaire:  a study of IT companies in Hanoi;Van Hieu Duong,Duong Thi Hoai Nhung,Tran My Linh;27/12/2021
+44;Vol. 21 No. 1 (2021);An empirical analysis of factors affecting the intention of using  digital wallets in Vietnam;Hoang Thi Hau,Duong Thi Hoai Nhung,Pham Hong Trang;27/12/2021
+45;Vol. 21 No. 1 (2021);A study of the factors affecting the willingness to engage  in business-university cooperation;Tran Tu Uyen;27/12/2021
+46;Vol. 20 No. 3 (2020);Wine and music: diversification with investments of passion;Ross Ackerman ,Truong Xuan Duong;17/11/2020
+47;Vol. 20 No. 3 (2020);An empirical study on factors influencing consumer impulsive purchase behavior: a case of Ho Chi Minh city in the 4.0 era;Thi Quynh Nga Nguyen,Bao Quynh Nhu Giang;27/12/2021
+48;Vol. 20 No. 3 (2020);Generation Z willingness to pay for sustainable apparel: the influence of labelling for origin and eco-friendly material;Pham Thi Cam Anh,Le My Huong,Vu Thi Kim Oanh;27/12/2021
+49;Vol. 20 No. 3 (2020);The effect of brand image, perceived quality and brand experience on customer loyalty: an empirical investigation in the telecommunication industry in Vietnam;Nguyen Thi Thanh Huyen;27/12/2021
+50;Vol. 20 No. 3 (2020);CSR motivators of local firms in a developing country: a case study in Quang Ninh province, Vietnam;Tran Thi Hien,Nguyen Tan Thu Hien;27/12/2021
+51;Vol. 20 No. 3 (2020);Do business linkages play a role in upgrading workers’ skills among small and medium-sized enterprises in Vietnam?;Dao Thi Thu Giang,Cao Thi Hong Vinh;27/12/2021
+52;Vol. 20 No. 3 (2020);Factors affecting e-learning based cloud computing acceptance: an empirical study at Vietnamese universities;Nguyen Dac Thanh,Vu Thi Hong Ngoc,Kim Huong Trang;27/12/2021
+53;Vol. 20 No. 2 (2020);The economic impact of CPTPP on Vietnam’s fisheries exports to CPTPP region;Vu Thuy Duong,Le Thu Ha,Francesca Masciarelli;31/07/2020
+54;Vol. 20 No. 2 (2020);Foreign invested firms’ responses to policy changes: an empirical analysis in Vietnam;Vuong Thi Thao Binh,Nguyen Van Thang;27/12/2021
+55;Vol. 20 No. 2 (2020);The impact of financial openness on the earnings of self-employed workers - an empirical evidence from a panel dataset;Le Thi Thu Huong,Bui Thi Ly,Nguyen Huyen Minh;27/12/2021
+56;Vol. 20 No. 2 (2020);Who participates in free business training? The case of Vietnamese SMEs;Yuki Higuchi;31/07/2020
+57;Vol. 20 No. 2 (2020);The impacts of consumer value and brand identification on brand loyalty and electronic word of mouth: the case of smartphone market in Ho Chi Minh City;Tran The Nam,Tieu Van Trang;27/12/2021
+58;Vol. 20 No. 2 (2020);An evaluation of student satisfaction of the joint master programs at Foreign Trade University in Vietnam;Pi-Yun Chen,Bui Manh Cuong;31/07/2020
+59;Vol. 20 No. 1 (2020);Does corporate governance structure matter for firm financial performance? A system GMM panel analysis for Vietnam;Pham Duc Anh,Hoang Thi Phuong Anh;26/05/2022
+60;Vol. 20 No. 1 (2020);The determinants of corporate social responsibility disclosure: evidence from  Vietnam’s listed companies in chemical industry;Nguyen Thuy Anh,Tran Hue Ly;26/05/2022
+61;Vol. 20 No. 1 (2020);The effects of cash in advance on export decision: the case of Vietnam;Doan Ngoc Thang,Nguyen Kieu Trang,Mai Phu Cuong;26/05/2022
+62;Vol. 20 No. 1 (2020);Oil price and firm profitability: evidence from Vietnamese stock market;Tran Quoc Trung,Vo Thi Thien Trang;26/05/2022
+63;Vol. 20 No. 1 (2020);A comparative analysis of startups financing in Vietnam;Nguyen Thi Hanh;26/05/2022
+64;Vol. 20 No. 1 (2020);Investigating determinants of competitiveness of the retail banking service in Vietnam: a customer approach;Nguyen Dac Thanh,Luu Thi Thuy Duong,Nguyen Huu That;26/05/2022
+65;No. 124 (2019);Empirical relationship among dimensions of customer-based brand equity in e-tailing service: a study in Vietnam context;Tran Minh Thu,Duong Thi Hoai Nhung;31/12/2019
+66;No. 124 (2019);An empirical analysis of competencies in predicting managerial effectiveness  of the sales managers: a Vietnamese banking sector perspective;Duong Thi Hoai Nhung;31/12/2019
+67;No. 124 (2019);The impact of customer satisfaction on brand loyalty for mobile telecommunications services in Ho Chi Minh city;Nguyen Thi Quynh Nga,Le Dang Minh Thu;31/12/2019
+68;No. 124 (2019);Factors affecting organizational commitment of students in Foreign Trade University’s clubs;Hoang Thi Thuy Duong,Doan Thi Thanh Thuy;31/12/2019
+69;No. 124 (2019);The impact of capital structure on firm value of Vietnamese listed companies - a quantile regression approach;Tran Thi Phuong Thao;31/12/2019
+70;No. 118 (2019);Does trade facilitation challenge the domestic logistics enterprises in Vietnam?;Phan Thi Thu Hien;30/06/2019
+71;No. 118 (2019);Best manufacturing practices and firm performance in the context of Vietnam’s mechanical enterprises;Dao Minh Anh;30/06/2019
+72;No. 118 (2019);Managers’ risk and time preferences in economic behavior: Review from the experiments;Huong Trang Kim,Quang Nguyen;30/06/2019
+73;No. 118 (2019);Corporate Social Responsibility Regarding Education of Foreign Direct Investment Companies in Vietnam;Pham Thu Huong,Pham Huong Quynh;30/06/2019
+74;No. 118 (2019);Impact of trade facilitation on trade performance in case of Vietnam, Kenya  and Germany;Areej Aftab Siddiqui,Le Phuong Dung;30/06/2019
+75;No. 111 (2018);A revision on the effect of FDI on inequality-adjusted human development index;Cao Thi Hong Vinh,Nguyen Thi Ngan Ha,Pham Hong Dien;30/11/2018
+76;No. 111 (2018);Central bank credibility and the sustainability of exchange rate regimes in Vietnam;Mai Thu Hien;30/11/2018
+77;No. 111 (2018);The determinants of TFP at firm-level in Vietnam;Nguyen Thuy Anh,Nguyen Duy Anh;30/11/2018
+78;No. 111 (2018);Impacts of cost stickiness on profitability: The case of listed companies in Vietnam;Dang Thi Huyen Huong;30/11/2018
+79;No. 111 (2018);Relation of intellectual property management to firm performance in the textile and garment industry in Vietnam;Le Thi Thu Ha;30/11/2018
+80;No. 111 (2018);Factors affecting international tourists’ satisfaction of street food in Ho Chi Minh city;Tran Vinh Thuan,Nguyen Thi Phuong Chi,Nguyen Thi Trung;30/11/2018
+81;No. 108 (2018);The impact of audit quality and state ownership on accrual-based earnings management: evidence from Vietnam;Nguyen Thu Hang,Tran Nguyen Minh Tran,Pham Thi Anh Thuy,Phan Hoai Thuong;31/08/2018
+82;No. 108 (2018);Firm characteristics, perceived obstacles of instutional environment and export performance: evidence from Vietnamese firms;Tran Quoc Trung,Dang Bui Thi Dieu;31/08/2018
+83;No. 108 (2018);Challenges facing women entrepreneurs in Vietnam;Nguyen Thuy Anh,Hoang Thi Thuy Duong;31/08/2018
+84;No. 108 (2018);Exclusion of the CISG 1980 from perspective of enterprises: international experience and implications for Vietnam;Nguyen Tien Hoang,Duong Viet Nam;31/08/2018
+85;No. 108 (2018);Exploratory Factor Analysis on determinant factors to tax evasion behavior: Vietnamese personal income tax case;Nguyen Thu Hang;31/08/2018
+86;No. 108 (2018);Measuring volatility spillovers between developed and Southeast Asian emerging stock markets: a multivariate garch approach;Nguyen Thi Hoang Anh,Tran Thi Thanh Huyen,Huynh Ngoc Kim Minh,Nguyen Thi Ngoc Tran;31/08/2018
+87;No. 101 (2018);DETERMINANTS OF FOREIGN DIRECT INVESTMENT INFLOWS INTO ASEAN COUNTRIES: A GLS ESTIMATION TECHNIQUE APPROACH;Hoang Chi Cuong,Nguyen Van Thu,Tran Thi Nhu Trang;31/01/2018
+88;No. 101 (2018);A STATE-OF-THE-ART REVIEW OF TOURIST DECISION-MAKING LITERATURE;Dung Le,Thai Phong Le;31/01/2018
+89;No. 101 (2018);CAPABILITY-BASED PERSPECTIVE TO COMPETITIVE ADVANTAGES OF THE FIRM:  THEORETICAL REVIEW AND EMPIRICAL  EVIDENCES FROM US AND JAPANESE CORPORATE FIRMS;Dinh Thi Thanh Binh;31/01/2018
+90;No. 101 (2018);INTRA-ASEAN TRADE – GRAVITY MODEL AND SPATIAL HAUSMAN-TAYLOR APPROACH;Phung Duy Quang,Pham Anh Tuan,Nguyen Thi Xuan Thu;31/01/2018
+91;No. 101 (2018);FAMILY SIZE, INCREASING BLOCK TARIFF AND ECONOMIES OF SCALE OF  HOUSEHOLD ELECTRICITY CONSUMPTION IN VIETNAM FROM 2010 TO 2014;Nguyen Hoai Son,Ha Duong Minh;31/01/2018
+92;No. 101 (2018);WHY DO VIETNAMESE PEOPLE EVADE TAXES?;Thu Hang Nguyen;31/01/2018
+93;No. 96 (2017);Applying vector error correction model to analyze the bi-directional linkage between FDI and pillars of sustainable development in Vietnam;Cao Thi Hong Vinh;31/07/2017
+94;No. 96 (2017);Do oil prices still matter? The case of Vietnamese stock market;Cao Dinh Kien,Do Huu Hung;31/07/2017
+95;No. 96 (2017);Building visibility when firms depend on suppliers: case of seafood producers in Vietnam;Nguyen Vu Hung,Nguyen Hung Cuong;31/07/2017
+96;No. 96 (2017);Advanced Japanese style international  business program in foreign trade university:  initial perspectives for promoting sustainable production and business through training;Nguyen Thi Hien;31/07/2017
+97;No. 96 (2017);Critical factors affecting performance of customer service staff - the case of VP bank Vietnam;Pham Thu Huong,Tran Thi Lien;31/07/2017
+98;No. 96 (2017);A state-of-the-art review of tourist decision-making literature;Dung Le,Le Thai Phong;31/07/2017
+99;No. 94 (2017);Determinants of foreign ownership: Evidences from Vietnam listed firms;Cao Thi Hong Vinh,Nguyen Dam Khanh Linh,Vu Kim Dung;31/05/2017
+100;No. 94 (2017);Buyer’s remedies in international sales contracts under CISG 1980 and Vietnam Commercial Law 2005: A comparative analysis;Nguyen Tien Hoang,Ho Phu Minh Quan;31/05/2017
+101;No. 94 (2017);The FDI attracting policy of Malaysia towards green growth and some suggestions for Vietnam;Vu Thi Minh Ngoc;31/05/2017
+102;No. 94 (2017);Money demand and the welfare cost of inflation: Empirical evidence from East Asian Countries;Nguyen Anh Tuan,Nguyen Thanh Luan;31/05/2017
+103;No. 94 (2017);Aspects of Russia-Vietnam trade and economic cooperation development in the late XX and early XXI centuries;Irina Kokushkina;31/05/2017
+104;No. 94 (2017);A study of logistics performance of manufacturing and import - export firms in Vietnam;Ruth Banomyong,Trinh Thi Thu Huong,Pham Thanh Ha;31/05/2017
+105;No. 94 (2017);Serial acquisitions: A Case Study of Saigon – Hanoi Commercial Joint Stock Bank;Nguyen Thu Thuy,Ha Thi Huyen Ngoc;31/05/2017
+106;No. 89 (2016);Volatility Timing in the Vietnamese Stock Market;Nguyen Thi Hoang Anh;31/12/2016
+107;No. 89 (2016);Real Earnings Management: Evidence From Vietnam;Nguyen Thu Hang,Nguyen Manh Hiep;31/12/2016
+108;No. 89 (2016);Dividend Policy, Financial Leverage and Ownership Structure: Empirical Evidence from Vietnam;Nguyen Do Quyen,Tran Thi Minh Tram;31/12/2016
+109;No. 89 (2016);Impact of CEO’s Characteristics on Firm Performance: the Case of Vietnam;Cao Dinh Kien,Hoang Hai Yen,Tran Minh Ngoc;31/12/2016
+110;No. 89 (2016);The Impact of Macroeconomic Variables on Equity Risk Premium: Evidence from  Sectoral Analysis in Vietnam Using Bounds Testing Approach;Nguyen Thi Thuy Vinh,Nguyen Minh Thuy,Pham Xuan Truong,Le Kieu Phuong;31/12/2016
+111;No. 89 (2016);Foreign Investor Trading and Herding Behavior in Vietnam Stock Market;Manh Hiep Nguyen,Nguyen Hong Nhung,Nguyen Ngoc Dieu Le;31/12/2016
+112;No. 87 (2016);Relationship between the product differentiation and firm performance of Japanese invested enterprises (JIEs) in Vietnam;Le Thi Thu Ha,Ho Thi Thu Quynh;30/11/2016
+113;No. 87 (2016);Impact of transport costs on Vietnam’s textile exports;Trinh Thi Thu Huong,Pham Thanh Ha,Nguyen Ngoc Lan;30/11/2016
+114;No. 87 (2016);Trade marketing of Fast Moving Consumer Goods Industry in Vietnam: a case study of Procter & Gamble;Nguyen Thuy Anh,Nguyen Thi My Linh;30/11/2016
+115;No. 87 (2016);Role of Intellectual Property Rights in promoting ecotourism in Sri Lanka;Dilani Hirimuthugodage;30/11/2016
+116;No. 87 (2016);Factors affecting firm’s propensity to pay dividends: Evidence from Vietnam’s listed companies;Nguyen Do Quyen,Bui Quang Huy;30/11/2016
+117;No. 87 (2016);The determinants of internal migration in Vietnam: Could “Broad Lessons” from empirical literature be learned?;Ngoc Kien Do;30/11/2016
+118;No. 87 (2016);Vietnam’s footwear export: The direction of trade and determinants of firms’ market penetration;Vu Thi Hanh;30/11/2016
+119;No. 83 (2016);Exchange rate risk and economic growth in Vietnam;Nguyen Thi Thuy Vinh;30/04/2016
+120;No. 83 (2016);Determinants of Foreign Direct Investment in Vietnam;Mai Thu Hien,Nguyen Ngoc Binh;30/04/2016
+121;No. 83 (2016);The effect of partial merger & acquisition activities on target firm’s performance:  a case study from banking and finance industry in Vietnam;Dinh Kien Cao,Le Thai Phong,Tran Thi Kim Anh,Nguyen Bao Tuan;30/04/2016
+122;No. 83 (2016);Relationship between intra-firm logistics integration and transaction costs: an  empirical study of international multimodal transport companies in Vietnam;Phuc TT. Nguyen,Lin Crase,Nguyen Thi Thu Ha;30/04/2016
+123;No. 83 (2016);Network and firm performance under balanced scorecard approach;Le Thai Phong,Le Thi Thu Ha;30/04/2016
+124;No. 83 (2016);The Economic Effects of Airline Alliances and Mergers in the Airline Industry;Hoang Truong Giang,Tran Thi Kim Anh;30/04/2016
+125;No. 80 (2016);The two-way linkage between foreign direct investment and environmental pollution in  Vietnam - from sectoral perspectives;Cao Thi Hong Vinh;31/03/2016
+126;No. 80 (2016);The impact of financial leverage on firm performance: A case of construction firms in Vietnam;Le Thai Phong;31/03/2016
+127;No. 80 (2016);An empirical test of calendar effects in Vietnam stock market;Le Phuong Lan,Do Duy Tan;31/03/2016
+128;No. 80 (2016);A strategic approach to the implementation of section J, chapter 18, Trans - Pacific Partnership Agreement on Internet;Pham Thi Mai Khanh;31/03/2016
+129;No. 80 (2016);Translation quality assessment by Newmark's model with translation learning;Tran Thi Trung Hieu;31/03/2016
+130;No. 80 (2016);Protection of geographical indication: a new convergence or an old divergence?;Le Thi Thu Ha;31/03/2016
+131;No. 76 (2015);Methodological approaches to assessment of the human capital value in condition of social modernization;Zaure Chulano,Anel Ussenova;31/08/2015
+132;No. 76 (2015);Determinants of corporate liquidity: a literature review;Nguyen Thi Thu Huyen;31/08/2015
+133;No. 76 (2015);Factors influencing the firm’s self-selection behavor in the electricity industry in Vietnam (2006 – 2010);Nguyen Quynh Huong;31/08/2015
+134;No. 76 (2015);Determinants of capital structure: empirical  evidence from Vietnamese listed construction companies;Nguyen Thu Anh,Le Thi Thanh Huyen;31/08/2015
+135;No. 76 (2015);Exploring the effects of the perceived fit with corporate social responsibility on brand loyalty in the tobacco industry;Vu Thi Kim Chi,Tran Manh Dung;31/08/2015
+136;No. 76 (2015);The relationship between organizational culture and innovation through Vietnamese employee’s perspective;Nham Phong Tuan,Pham Thi Trang;31/08/2015
+137;No. 72 (2015);Future Vietnam-EU Free Trade Agreement (Vietnam-EU FTA): an analysis of trade creation and trade diversion effects;Nguyen Binh Duong,Tu Thuy Anh,Nguyen Thu Trang;30/04/2015
+138;No. 72 (2015);Challenges for Vietnam’s participation in AEC: Free flow of skilled labor and lessons learned from European Union;Wolfgang Form,Huynh Luu Duc Toan,Le Dong Thao Vy;30/04/2015
+139;No. 72 (2015);Localizing foreign firms in Vietnam through analyzing effects of agglomeration economies;Dinh Thi Thanh Binh;30/04/2015
+140;No. 72 (2015);Technology institutions in small producers’ clusters: case studies of craft villages in northern Vietnam;Le Thi Thu Ha,Nguyen Thi Huong;30/04/2015
+141;No. 72 (2015);A review of structural equation modeling sample size in supply chain management discipline;Nguyen Khanh Hung;30/04/2015
+142;No. 72 (2015);Indo-Chinese trade: uneven partnership;Badar Alam Iqbal,Dexue Liu;30/04/2015
+143;No. 72 (2015);Product development: in-house innovation or international clone? A  research on different performance of technology start-ups in Vietnam;Le Thai Phong,Le Hong Ngoc Han;30/04/2015
+144;No. 72 (2015);Discussion on the rebound of some Asian emerging economies after the  global financial crisis in 2008;Hoang Xuan Binh;30/04/2015
+145;No. 69 (2014);Applying gravity model to analyze trade activities of Vietnam;Dinh Thi Thanh Binh,Viet Duong Nguyen,Hoang Manh Cuong;31/12/2014
+146;No. 69 (2014);The influence of organizational identification,  perceived organizational support and protean  career approach on turnover intention - a  case study at SMES in Viet Nam;Nguyen Thi Hai Thuy;31/12/2014
+147;No. 69 (2014);Leadership in social enterprises: do we really know?;Le Thai Phong,Benedicta Lusk,Tran Mai Anh;31/12/2014
+148;No. 69 (2014);A Non-Parametric Approach in Measuring the Variances of Compliance Levels of Goodwill Impairment Testing;Dung Manh Tran,Khairil Faizal Khairi,Nur Hidayah Laili;31/12/2014
+149;No. 69 (2014);An exploratory study on factors affecting  Activity - Based Costing (ABC) system adoption in Vietnamese enterprises.;Tran Tu Uyen;31/12/2014
+150;No. 69 (2014);The Structure - Conduct - Performance paradigm revisited: an empirical analysis for Vietnamese firms;Tu Thuy Anh,Dinh Thi Thanh Binh,Nguyen Binh Duong,Nguyen Viet Duong;31/12/2014
+151;No. 65 (2014);Restructuring process in Vietnam: The road map and initial results;Nguyen Tu Anh,Nguyen Thu Thuy;31/05/2014
+152;No. 65 (2014);Participation of non-state actors in formulation of trade policy in Vietnam;Dao Ngoc Tien,Nguyen Quynh Huong,Nguyen Thu Hang,Ngo Chi Le;31/05/2014
+153;No. 65 (2014);Determinants of foreign firon existence in Vietnam;Dinh Thi Thanh Binh;31/05/2014
+154;No. 65 (2014);Effects of the provision of training and fringe benefits to workers on performance of manufacuturing SMEs;Vu Hoang Nam;31/05/2014
+155;No. 65 (2014);Cleantech innovation implementation towards the sustainable development of  Vietnamese Enterprises: Current situation and recommendations;Tran Thi Kim Anh,Hoang Truong Giang,Tran Hoang Long;31/05/2014
+156;No. 65 (2014);The EU debt crisis and policy implications for Vietnam;Hoang Xuan Binh;31/05/2014
+157;No. 62 (2014);Fdi spillovers between manufacturing-service sectors: myth or reality?;Le Thai Phong;28/02/2014
+158;No. 62 (2014);Application of information technology (it): Evidence from manufacturing SMEs in Vietnam;Vu Hoang Nam;28/02/2014
+159;No. 62 (2014);In the formation of contracts under the CISG, how does Article 19 solve the battle of forms issue?;Vo Sy Manh;28/02/2014
+160;No. 62 (2014);Conceptual reference framework for successful enterprise resource planning (ERP) implementation in global environment;Nguyen Minh Phuc;28/02/2014
+161;No. 62 (2014);Performance of private investment in public entity transactions – evidence from the U.S. firms;Nguyen Thu Thuy,Daniel Mulder,Daniel Mulder;28/02/2014
+162;No. 62 (2014);Digital Lags and Challenges in E-Government development in developing versus developed  country: a comparative case study between Vietnam and South Korea;Hoang Thuy Nga,Nguyen Tuan Anh,Nguyen Minh Hang,Manish Pokhare;28/02/2014
+163;No. 59 (2013);Theories on FDI spillovers: Have we really fully covered?;Le Thai Phong;30/11/2013
+164;No. 59 (2013);A gravity analysis of Vietnam trade flows: Does the exchange rate matter?;Do Ngoc Kien,Vu Hoang Nam;30/11/2013
+165;No. 59 (2013);Does World Trade Organization (WTO)  Membership account for the increase in  FDI Inflows to Vietnam? What about other factors?;Cao Thi Hong Vinh;30/11/2013
+166;No. 59 (2013);Internationalization of accounting systems and global finance: A brief review of IFRS adoption and its impact on the capital market;Nguyen Thuc Anh;30/11/2013
+167;No. 59 (2013);Headquarter Relocation: Financial  Performance and Stock Market Reaction;Cao Dinh Kien,Hoang Hai Yen;30/11/2013
+168;No. 59 (2013);Organizational culture change by HRM techniques in British corporations;Hoang Anh Duy;30/11/2013
+169;No. 56 (2013);Arbitrage pricing theory: Evidence from an emerging stock market;Nguyen Dinh Tho;31/05/2013
+170;No. 56 (2013);The transmission channels of monetary policy in Vietnam;Nguyen Thi Thuy Vinh;31/05/2013
+171;No. 56 (2013);A critical analysis of using stock market Past returns as a forecasting determinant of stock market liquidity in Vietnam;Nguyen Minh Phuong;31/05/2013
+172;No. 56 (2013);Empirical analysis of network effect applicability in Vietnam’s enterprises;Nguyen Thi Tuong Anh;31/05/2013
+173;No. 56 (2013);On the relationship between human capital and firm performance;Dinh Thi Thanh Binh,Nguyen Huu Thinh,Bui Cao Khai,Tran Duy Hung,Nguyen Viet Duong,Le Thi Huyen Trang,Le Minh Ngoc;31/05/2013
+174;No. 56 (2013);Determinants of financing pattern and access to formal - informal credit: The case of small and medium sized enterprises in Vietnam;Nguyen Nhung,Luu Nhung;31/05/2013
+175;No. 56 (2013);Firm - specific determinants of capital structure: Evidence from Vietnam during the period of 2007 - 2011;Bui Thu Hien;31/05/2013
